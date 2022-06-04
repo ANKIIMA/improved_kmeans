@@ -1,0 +1,2 @@
+kmean_func和kmeans_test是普通kmeans算法对图像分割的代码；
+kmean_improve和kmeans_improved_test是改进的kmeans算法对图像分割的代码。
